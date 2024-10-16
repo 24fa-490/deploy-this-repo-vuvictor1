@@ -25,7 +25,7 @@
 	},
 	"type": "module",
 	"engines": {
-		"node": "21.x"
+		"node": "18.x"
 	},
 	"dependencies": {
 		"postgres": "^3.4.4",
