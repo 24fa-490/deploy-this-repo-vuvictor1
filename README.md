@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
-
+<https://deploy-this-repo-vuvictor1-production.up.railway.app/>
